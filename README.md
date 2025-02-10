@@ -5,7 +5,7 @@ Bu Python scripti, kullanıcı tarafından belirlenen koordinatlarda fare tıkla
 
 ### **Özellikler**
 - **Koordinat Belirleme**: Dinamik olarak tıklama yapılacak noktaları belirleme veya varsayılan koordinatları kullanma.
-- **Zamanlayıcı**: Belirli bir saatte tıklamalara başlama (\u00f6rn. ders seçim saatinde).
+- **Zamanlayıcı**: Belirli bir saatte tıklamalara başlama (örneğin. ders seçim saatinde).
 - **Spam Modu**: Tıklamaların sonsuz döngüede devam etmesi.
 - **Sayfa Yenileme**: Tıklamalardan önce tarayıcıyı Ctrl+R ile yenileme.
 - **Küresel Tuş Dinleyici**: `e` tuşuna basarak scripti istediğiniz zaman durdurabilirsiniz.
